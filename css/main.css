@@ -31,7 +31,7 @@
 }
 
 .cat-pic {
-	background: url('../kitty.jpeg') no-repeat center	center fixed;
+	background: url('../kitty.jpeg') no-repeat center	center;
 	height: 75vh;
 }
 
