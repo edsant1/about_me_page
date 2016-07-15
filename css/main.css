@@ -34,3 +34,8 @@
 	background: url('../kitty.jpeg') no-repeat center	center fixed;
 	height: 75vh;
 }
+
+.turtle-pic {
+	background: url('../turtle.png') no-repeat center center;
+	height: 75vh;
+}
